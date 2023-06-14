@@ -9,12 +9,12 @@ Perhaps others will also find them enjoyable.
 ## Download
 ![Preview des Wallpapers](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/preview.png)
 
-[Mobile](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/phone.jpg) | [Tablet](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/tablet.jpg) | [Desktop](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/desktop.jpg)
+Download: [Mobile](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/phone.jpg) | [Tablet](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/tablet.jpg) | [Desktop](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/desktop.jpg)
 
 ## Bonus
 ![Preview des Wallpapers](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/preview_2.jpg)
 
-[yellow](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/yellow.jpg) | [rose](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/rose.jpg) | [red](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/red.jpg) | [blue](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/blue.jpg)
+Download: [yellow](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/yellow.jpg) | [rose](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/rose.jpg) | [red](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/red.jpg) | [blue](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/blue.jpg)
 
 ## Bonus 2
 Download the Raw-File: [Wallpaper_RAW.afdesign](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/Wallpaper_RAW.afdesign)
