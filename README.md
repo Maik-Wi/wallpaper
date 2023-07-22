@@ -14,7 +14,7 @@ Download: [Mobile](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/m
 ## Bonus
 ![Preview des Wallpapers](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/preview_2.jpg)
 
-Download: [yellow](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/yellow.jpg) | [rose](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/rose.jpg) | [red](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/red.jpg) | [blue](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/blue.jpg)
+Download: [yellow](https://github.com/Maik-Wi/wtglwgh-wallpaper/blob/a73bec7251435ba5f6fe6e2e924bdd0e385174cc/wallpaper_yellow.jpg) | [rose](https://github.com/Maik-Wi/wtglwgh-wallpaper/blob/a73bec7251435ba5f6fe6e2e924bdd0e385174cc/wallpaper_rose.jpg) | [red](https://github.com/Maik-Wi/wtglwgh-wallpaper/blob/a73bec7251435ba5f6fe6e2e924bdd0e385174cc/wallpaper_red.jpg) | [blue](https://github.com/Maik-Wi/wtglwgh-wallpaper/blob/a73bec7251435ba5f6fe6e2e924bdd0e385174cc/wallpaper_blue.jpg)
 
 ## Bonus 2
-Download the Raw-File: [Wallpaper_RAW.afdesign](https://raw.githubusercontent.com/Maik-Wi/wtglwgh-wallpaper/main/Wallpaper_RAW.afdesign)
+Download the Raw-File: [Wallpaper_RAW.afdesign](https://github.com/Maik-Wi/wtglwgh-wallpaper/blob/a73bec7251435ba5f6fe6e2e924bdd0e385174cc/Wallpaper_RAW.afdesign)
